@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="wait">please wait ..</string>
+    <string name="errorNetwork">No Internet Connection</string>
+    <string name="inputAllData">Please input all Data</string>
+    <string name="internetError">Error Network</string>
+    <string name="errorLogin">Error Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selectDep">Select Department</string>
+    <string name="searchTxt">Enter Name Department</string>
+    <string name="search">Search</string>
+    <string name="SelectOne">Select One Of Departments</string>
+    <string name="noData">No Data</string>
+    <string name="noDataInsert">Input Data</string>
+
+    <string name="folname">Create Consultation</string>
+    <string name="txt_departmenttype">Departmenet Type</string>
+    <string name="txt_typeofcons">Type of consultation</string>
+    <string name="txt_selectdepartment">Select Department</string>
+    <string name="text_public">Public</string>
+    <string name="txt_Private">Private</string>
+    <string name="Patient_Information">Patient Information</string>
+    <string name="Patient_Name">Patient Name</string>
+    <string name="Patient_Age">Patient Age</string>
+    <string name="Patient_Weight">Patient Weight</string>
+    <string name="Sex">Sex Type</string>
+    <string name="txt_Male">Male</string>
+    <string name="txt_Female">Female</string>
+    <string name="Write_Your_Consultation">Write Your Consultation</string>
+    <string name="Write_Consultation">Write Consultation......</string>
+    <string name="txt_Write_Other_Question">Write Other Question</string>
+    <string name="txt_Writ_Other_Q">Write Other Q......</string>
+    <string name="txt_Load_File">Load File if there is</string>
+    <string name="txt_btn_Load_File">Load File</string>
+    <string name="txt_send">SEND</string>
+    <string name="txt_Dectortype">Dectors List Names</string>
+    <string name="txt_selectdectors">Select Dectors</string>
+    <string name="appbar_scrolling_view_behavior">Select </string>
+    <string name="allirgic">Do you Have Allargies?</string>
+    <string name="txt_Yes">Yes</string>
+    <string name="txt_No">No</string>
+    <string name="allergic_ex">Ex: I hava dust allergy and Skin allergy</string>
+    <string name="medicien">Do you take any mediciens?</string>
+    <string name="medicine_ex">Ex: I am diabetic so I take Glycomet.</string>
+    <string name="illness">illenss</string>
+    <string name="illness_ex">Ex: I have BP and have thyroid problems</string>
+    <string name="title_activity_main_single">MainSingleActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_filter">Filter</string>
+    <string name="high_to_low">High to Low</string>
+    <string name="low_to_high">Low to High</string>
+    <string name="text_no_data">Select Value</string>
+    <string name="title_activity_single_main">SingleMainActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_activity_single_fragment">SingleFragmentActivity</string>
+</resources>
